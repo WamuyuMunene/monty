@@ -3,6 +3,8 @@
 /**
  * f_open_error - print for opening errors
  *
+ * @filename: pointer
+ *
  * Return: exit failure
  */
 
